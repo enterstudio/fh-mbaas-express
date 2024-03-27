@@ -7,7 +7,7 @@
     "async": "0.2.9",
     "body-parser": "1.15.2",
     "cors": "2.1.0",
-    "express": "4.14.0",
+    "express": "4.19.2",
     "fh-amqp-js": "0.7.1",
     "fh-mbaas-client": "0.15.0",
     "fh-reportingclient": "0.5.4",
