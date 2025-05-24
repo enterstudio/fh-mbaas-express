@@ -11,7 +11,7 @@
     "fh-amqp-js": "0.7.1",
     "fh-mbaas-client": "0.15.0",
     "fh-reportingclient": "0.5.4",
-    "multer": "0.1.8",
+    "multer": "2.0.0",
     "request": "2.74.0",
     "type-is": "~1.1.0",
     "underscore": "1.5.1"
